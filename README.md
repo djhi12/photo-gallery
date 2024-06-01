@@ -6,6 +6,8 @@ The software allows users to view a collection of photos in a visually appealing
 
 You can watch a 4-5 minute demonstration of the software running and a walkthrough of the code in this Software Demo Video.
 
+---
+
 # Development Environment
 
 For this project, I utilized the following tools:
@@ -20,12 +22,16 @@ The programming languages and libraries used in this project include:
 - JavaScript: For implementing the interactive features and functionality of the gallery.
 - Any additional libraries were not used in this project to maintain a focus on vanilla JavaScript.
 
+---
+
 # Useful Websites
 
 During the development of this project, I found the following websites helpful:
 
 - MDN Web Docs: A comprehensive resource for web development documentation and tutorials.
 - Stack Overflow: A community-driven platform for asking and answering programming-related questions.
+
+---
 
 # Future Work
 
